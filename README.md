@@ -6,6 +6,9 @@ Hello there, I'm Radhika
 ![](https://komarev.com/ghpvc/?username=radhikajessy&color=blue)
 
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </div>
 <h3>Competencies</h3>
 <p>
 
@@ -20,6 +23,7 @@ Hello there, I'm Radhika
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-ff62f6?style=flat-square&logo=Grafana&logoColor=white" />
 
 </p>
+
 
 
 <h3>My GitHub contributions summary</h3>
