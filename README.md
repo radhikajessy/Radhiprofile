@@ -26,4 +26,4 @@ Hello there, I'm Radhika
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=radhikajessy&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=radhikajessy&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![radhikajessy's Stats](https://github-readme-stats.vercel.app/api?username=radhikajessy&theme=algolia&show_icons=true&hide_border=true&count_private=true)
