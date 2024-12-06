@@ -1,4 +1,4 @@
-# Radhiprofile
+# Radhika
 
 Hello there, I'm Radhika
 
@@ -8,9 +8,9 @@ Hello there, I'm Radhika
 <h3>When I code, I rely on</h3>
 <p>
 
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=AWS&logoColor=white" />
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon Web Services-E34F26?style=flat-square&logo=Amazon Web Services&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-f7df1c?style=flat-square&logo=Jenkins&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker7953b3?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-07ACC?style=flat-square&logo=Docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-007ACC?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-45b8d8?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-DD0031?style=flat-square&logo=Bash&logoColor=white" />
@@ -25,4 +25,4 @@ Hello there, I'm Radhika
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
